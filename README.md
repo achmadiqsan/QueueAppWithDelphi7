@@ -20,3 +20,6 @@ Environment :
 Quote : "Maka sesungguhnya beserta kesulitan ada kemudahan, sesungguhnya beserta kesulitan itu ada kemudahan." Q.S Al-Insyirah (5-6)
 
 LOKASI FILE AGAR TIDAK ERROR : SIMPAN FILE CODING DI DRIVE D
+
+DAFTAR PUSTAKA :
+https://www.insanjabal.my.id/2018/10/aplikasi-antrian-sederhana-dengan-delphi.html
