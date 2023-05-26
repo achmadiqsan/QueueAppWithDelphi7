@@ -989,6 +989,7 @@ object FMainMenu: TFMainMenu
       Font.Style = []
       ParentFont = False
       TabOrder = 0
+      OnKeyPress = Edit1KeyPress
     end
     object Button1: TButton
       Left = 208
@@ -1082,7 +1083,7 @@ object FMainMenu: TFMainMenu
       Height = 288
       Align = alClient
       BevelOuter = bvNone
-      Caption = '0'
+      Caption = '1'
       Color = clWhite
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clRed
@@ -1158,7 +1159,7 @@ object FMainMenu: TFMainMenu
       Height = 120
       Align = alBottom
       BevelOuter = bvNone
-      Caption = '1'
+      Caption = '2'
       Color = clWhite
       Font.Charset = DEFAULT_CHARSET
       Font.Color = 13395456
